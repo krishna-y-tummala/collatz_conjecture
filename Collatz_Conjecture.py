@@ -28,7 +28,7 @@ def collatz(number):
             results.append(number)
         
     print (f'the number of steps to reach 1 is: {len(results)}')
-    print (results)
+    
 
 
 number = input_number()
